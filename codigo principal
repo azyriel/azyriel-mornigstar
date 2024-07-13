@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Azyriel - Poemas y Escritos</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            color: #333;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #1E3A8A; /* Azul oscuro */
+            color: white;
+            text-align: center;
+            padding: 2em 0;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 2em 0;
+        }
+        h1 {
+            color: #B91C1C; /* Carmesí */
+            font-family: 'Georgia', serif;
+        }
+        h2, h3 {
+            color: #1E3A8A;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .poem {
+            background-color: #E5E7EB; /* Gris claro */
+            padding: 1em;
+            margin: 1em 0;
+            border-left: 5px solid #B91C1C;
+        }
+        footer {
+            background-color: #1E3A8A;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        a {
+            color: #B91C1C;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Azyriel - Poemas y Escritos</h1>
+    </header>
+    <div class="container">
+        <section id="biografia">
+            <h2>Biografía de Azyriel</h2>
+            <p>Azyriel estudió en la IED El Rosario y ya está graduado. Durante su tiempo en la escuela, sus asignaturas favoritas eran artes, inglés y educación física.</p>
+        </section>
+        <section id="inicios">
+            <h2>Inicios en la Escritura</h2>
+            <p>Descubrió su pasión por la escritura hace aproximadamente cuatro años, mientras creaba un pequeño cuento para una tarea escolar. Desde entonces, ha utilizado la escritura como un medio para desahogarse y expresar su creatividad. Ha participado en un curso o taller relacionado con la escritura una vez.</p>
+        </section>
+        <section id="motivaciones">
+            <h2>Motivaciones y Primeros Escritos</h2>
+            <p>Azyriel se inspiró a escribir poemas para desahogarse y su historia <em>Destino estelar en la corte imperial</em> surgió de su ensoñación excesiva. Su primer escrito trataba sobre un mundo posapocalíptico causado por guerras nucleares.</p>
+        </section>
+        <section id="obras">
+            <h2>Obras Publicadas</h2>
+            <ul>
+                <li><strong>Destino estelar en la corte imperial</strong>: Una historia que puede terminar siendo un BL, basada en escenarios surgidos de su imaginación.</li>
+                <li><strong>Ecos del corazón</strong>: Una colección de poemas basados en sus pensamientos diarios.</li>
+            </ul>
+        </section>
+        <section id="estilo">
+            <h2>Estilo y Temáticas</h2>
+            <p>Le gusta tratar diversos temas en sus escritos y dejarlos a la interpretación de sus lectores. Describe su estilo de escritura como una forma de liberar su creatividad.</p>
+        </section>
+        <section id="proceso">
+            <h2>Proceso Creativo</h2>
+            <p>Azyriel encuentra inspiración en su ensoñación excesiva y en los escritos de sus amigos en un grupo de WhatsApp. Prefiere escribir en computadora por la facilidad de hacer cambios y suele relajarse con música y un buen tinto mientras escribe.</p>
+        </section>
+        <section id="objetivos">
+            <h2>Objetivos y Metas</h2>
+            <p>Escribir es más un pasatiempo para Azyriel, y no tiene grandes ambiciones por el momento. Su meta principal es lograr terminar su primer escrito.</p>
+        </section>
+        <section id="intereses">
+            <h2>Intereses Personales</h2>
+            <p>Además de escribir, disfruta de estudiar un poco, caminar, asistir a un curso de diseño gráfico y tomar fotografías. También es más o menos bueno en dibujo y le gusta apreciar momentáneamente el paisaje en su tiempo libre.</p>
+        </section>
+        <section id="impacto">
+            <h2>Impacto de la Escritura</h2>
+            <p>La escritura ha tenido un impacto positivo en su vida, haciéndolo sentir más libre. Azyriel aconseja a los nuevos escritores que no tengan miedo de empezar, que los bloqueos son normales y que no se desanimen, luchando por sus sueños.</p>
+        </section>
+        <section id="poemas">
+            <h2>Poemas</h2>
+            <div class="poem">
+                <h3>Caminos en la soledad</h3>
+                <p>Hoy me siento un poco mejor,<br>
+                no digo que bien del todo.<br>
+                He llegado a considerar<br>
+                que la soledad quizás no sea tan mala,<br>
+                aunque aún no pierdo la esperanza<br>
+                de encontrar la luz.</p>
+                <p>Mis pensamientos me atormentan,<br>
+                pero no cederé.<br>
+                He comenzado a dudar<br>
+                de algunas decisiones,<br>
+                de si este proyecto<br>
+                fue una buena idea,<br>
+                pero no desistiré.</p>
+                <p>Hay varios caminos por recorrer,<br>
+                y quizá este sea uno de ellos.<br>
+                Tal vez en algún momento<br>
+                deje de andar,<br>
+                o simplemente termine abandonado,<br>
+                como tantas cosas antes.</p>
+            </div>
+            <div class="poem">
+                <h3>Secretos en la tormenta</h3>
+                <p>La Dinastía Zhongguo era conocida por su poder militar y sus estrategias en combate habían ganado varias batallas lo que llevo que su territorio aumentara siendo uno de las tres dinastías más grandes aunque la avaricia y deseo de poder nublo la visión de varias generaciones haciendo que su gobierno, se volviera corrupto, el rey se dejó manipular por sus consejeros dándoles demasiado poder permitiéndole tomar decisiones que no les correspondía subiéndole a los impuestos y a los alimentos bajo la falsa promesa que era para mejorar la dinastia, aunque realmente era para poder volverse más ricos a espaldas de los aldeanos que tenían que trabajar bajo el frío, el sol, y la lluvia, aunque a ellos no les importaba la salud de ellos solo les importaba el dinero que lograban producir, los sobre explotaban y una de las familias más conocida entre el pueblo de los aldeanos era la de la familia Tao, por sus ideas innovadoras que a la vista del gobierno eran tomadas como un acto que iba en contra de su gobierno, en varias ocasiones el consejo enviaba a sus soldados para destruir los inventos y objetos de la familia Tao el que más resaltaba en esa familia era Liang Tao por su inteligencia y carisma proponía buenas ideas para mejorar la producción en los cultivos, en la producción de harinas y en la movilización del producto, en varias ocasiones trataron de poner en marcha esas ideas, pero el gobierno no dejaba siempre destruían las máquinas construidas bajo los términos que no son buenas para el reino sin importar los beneficios que esas máquinas hayan obtenido esto nos trae a esta terrible noche que marcara la vida del inventor Liang Tao</p>
+                <p>Era una noche tormentosa los truenos iluminaban el cielo estrellado el sonido de la lluvia sonaba sobre los techos de las casas de los aldeanos varios gritos sonaron por las calles eran de la familia del inventor Liang Tao tratando de defenderlo de los soldados y evitar que se lo llevaran por sus supuestos crímenes contra la dinastía de la Dinastía Zhongguo uno de los guardias se colocó frente a los demás guardias de aproximadamente 39 años que parecía ser el teniente de los soldados.</p>
+                <p>El teniente dijo en una voz fría y alta: ¨Liang tao se le acusa de traición al estado, por conspirar contra la dinastía, espionaje por presuntamente compartir datos con enemigos extranjeros, herejía por cuestionar la autoridad de la dinastía y proponer ideas revolucionarias... ¡llévenselo! ¨</p>
+            </div>
+        </section>
+    </div>
+    <footer>
+        <p>Encuéntrame en <a href="https://www.instagram.com/_dxvid_nievxs/">Instagram</a></p>
+    </footer>
+</body>
+</html>
